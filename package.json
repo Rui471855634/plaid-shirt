@@ -50,7 +50,7 @@
     "@nuxtjs/style-resources": "^1.0.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "postcss-pxtransform": "^1.3.18",
     "pug": "^2.0.4",
     "pug-filters": "^3.1.1",
